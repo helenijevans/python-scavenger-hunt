@@ -10,7 +10,7 @@ Your goal is to solve three small coding challenges, debug or implement the give
 ### **Challenge 1 – `file1.py`**
 - **Type:** Debugging  
 - **Task:** The file contains a function `total_odds(nums)` that calculates the sum of odd numbers.  
-- **Goal:** Run the file and observe the output. This is your first clue.
+- **Goal:** Fix any bugs, run the file, and get the correct output. This is your first clue.
 
 ---
 
